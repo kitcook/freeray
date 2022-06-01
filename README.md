@@ -6,9 +6,12 @@
 如果碰到clash不可用，请在Issues里带上截图提问，我将尽量回答。
 
 一键导入 Clash: 点击[这里](https://v1.mk/lI8iK7a)
+一键导入 Clash 2: 点击[这里](https://v1.mk/mgen9it)
 
 > 如需手动导入，请复制以下订阅：     
 > https://fastly.jsdelivr.net/gh/daycat/freeray@main/output.yaml
+> 或者:
+> https://ghproxy.com/https://raw.githubusercontent.com/daycat/freeray/main/output.yaml
 
 ## 致谢
 [长风](https://github.com/changfengoss/pub)
