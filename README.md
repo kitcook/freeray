@@ -8,10 +8,11 @@
 一键导入 Clash: 点击[这里](https://v1.mk/lI8iK7a)       
 一键导入 Clash 2: 点击[这里](https://v1.mk/mgen9it)
 
-> 如需手动导入，请复制以下订阅：     
-> https://fastly.jsdelivr.net/gh/daycat/freeray@main/output.yaml
-> 或者:
-> https://ghproxy.com/https://raw.githubusercontent.com/daycat/freeray/main/output.yaml
+> 如需手动导入，请复制以下订阅中任意一个：     
+> mirror①：https://github.xiaokuqwq.eu.org/https://raw.githubusercontent.com/daycat/freeray/main/output.yaml
+> mirror②：https://ghproxy.com/https://raw.githubusercontent.com/daycat/freeray/main/output.yaml
+> mirror③：https://raw-gh.gcdn.mirr.one/daycat/freeray/main/output.yaml
+> mirror④：https://raw.github.qqcn.xyz/daycat/freeray/main/output.yaml
 
 ## 致谢
 [长风](https://github.com/changfengoss/pub)
